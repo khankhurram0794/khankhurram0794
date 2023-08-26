@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Khurram Khan
-- 
 - 🌱 I’m currently learning C++
 - 📫 connect to me @khankhurram0794@gmail.com
 
