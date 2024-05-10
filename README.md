@@ -7,12 +7,7 @@ About Me
 
 ☕ I'm also sharpening my skills in Java programming, exploring its versatility and its applications in various domains.
 
-What I'm Up To
-🚀 Learning: Always on the lookout for new technologies and trends in web development and AR/VR.
 
-📚 Studying: Balancing coursework with self-paced learning, I'm currently diving into advanced topics in computer science and engineering.
-
-💡 Exploring Projects: Actively working on personal projects to apply what I've learned, ranging from web applications to AR/VR experiences.
 
 
 
