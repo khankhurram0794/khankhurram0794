@@ -1,5 +1,5 @@
 About Me
-🎓 I'm a 4th-semester undergraduate computer engineering student passionate about technology and its endless possibilities.
+🎓 I'm a 5th-semester undergraduate computer engineering student passionate about technology and its endless possibilities.
 
 💻 Currently, I'm diving deep into the world of web development, exploring its frameworks, tools, and best practices.
 
