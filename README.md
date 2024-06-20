@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khankhurram0794&label=Profile%20views&color=0e75b6&style=flat" alt="khankhurram0794" /> </p>
 
-- 🔭 I’m currently working on **eb development, exploring its frameworks, tools, and best practices.**
+- 🔭 I’m currently working on **web development, exploring its frameworks, tools, and best practices.**
 
 - 🌱 I’m currently learning **Augmented Reality (AR) and Virtual Reality (VR) technologies, constantly seeking to understand how they reshape our digital experiences.**
-
-- 💬 Ask me about **react**
 
 - 📫 How to reach me **khankhurram0794@gmail.com**
 
